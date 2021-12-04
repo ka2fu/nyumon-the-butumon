@@ -1,5 +1,5 @@
 # flex-clamp-liquid
-flexを用いたレイアウト、-webkit-line-clampを用いたテキストの3点リーダー、media queryを用いたリキッドレイアウトの例  
+flexを用いたレイアウト、-webkit-line-clampを用いたテキストの3点リーダー、media queryを用いたリキッドレイアウトの例。スマホとpcで見た目が変わる。  
 
 [入門・ザ・仏門](https://ka2fu.github.io/nyumon-the-butumon/)にアクセスして、ブラウザ上で実際の見た目を確認できる。
 
